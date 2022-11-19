@@ -1,2 +1,2 @@
-Title: rembg
-desciption: remove background from image
+#  Remove background from image
+desciption: remove background from image using python
